@@ -10,7 +10,7 @@ module.exports = {
     output: {
         path: path.join(__dirname, './dist'),
         filename: 'panel-gallery-spa.js',
-        libraryTarget: 'umd'
+        libraryTarget: 'umd',
+        library: 'PanelGallerySPA'
     }
-
-}
+};
