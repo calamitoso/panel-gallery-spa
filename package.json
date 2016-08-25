@@ -1,0 +1,23 @@
+{
+  "name": "panel-gallery-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calamitoso/panel-gallery-spa.git"
+  },
+  "author": "Nicolas Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calamitoso/panel-gallery-spa/issues"
+  },
+  "homepage": "https://github.com/calamitoso/panel-gallery-spa#readme",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  }
+}
